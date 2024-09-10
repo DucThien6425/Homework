@@ -79,3 +79,9 @@
 .header-menu li:hover ul {
     display: block;
 }
+
+.banner{
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
